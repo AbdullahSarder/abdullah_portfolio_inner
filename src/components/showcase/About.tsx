@@ -16,7 +16,7 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a software engineer currently working at Vercel! In May
+                    I'm a Full-Stack Web Developer currently working at Vercel! In May
                     of 2022 I graduated from Rensselaer Polytechnic Institute
                     with my BS in Computer Science.
                 </p>
