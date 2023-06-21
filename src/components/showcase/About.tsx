@@ -12,7 +12,7 @@ const About: React.FC<AboutProps> = (props) => {
         <div className="site-page-content">
             {/* <img src={me} style={styles.topImage} alt="" /> */}
             <h1 style={{ marginLeft: -16 }}>Welcome</h1>
-            <h3>I'm Henry Heffernan</h3>
+            <h3>I'm Abdullah Sarder</h3>
             <br />
             <div className="text-block">
                 <p>
@@ -27,7 +27,7 @@ const About: React.FC<AboutProps> = (props) => {
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
                     <a href="abdullahsarder09@gmail.com">
-                        henryheffernan@gmail.com
+                        abdullahsarder09@gmail.com
                     </a>
                 </p>
             </div>
@@ -36,14 +36,15 @@ const About: React.FC<AboutProps> = (props) => {
                 <h3>About Me</h3>
                 <br />
                 <p>
-                    From a young age, I have had a curiosity about how things
-                    worked. This naturally led me to become absolutely obsessed
-                    with Lego and I fell in love with building things. In
-                    elementary school, I joined the Lego Robotics team at my
-                    local middle school, which was my first real exposure to
-                    programming. In 2008, my family and I moved across the
-                    country from California to New York, where I attended middle
-                    school, high school, and college.
+                From a young age, I possessed an insatiable curiosity about the inner workings of things. It was this innate inquisitiveness that sparked my passion for sports, PC games, gadgets, and software development. While other children were content with simply playing, I found myself captivated by the intricacies of the games and gadgets I encountered.
+
+Sports became a constant source of exhilaration and challenge for me. Whether it was kicking a ball or swinging a bat, I immersed myself in the thrill of competition and the joy of pushing my physical limits. This passion for sports fueled my determination to excel and taught me valuable lessons about teamwork, discipline, and perseverance.
+
+Simultaneously, my fascination with technology flourished. As I delved into the world of PC games, I discovered not only the enjoyment they provided but also the underlying mechanics and design principles. This led me to explore the realm of software development, where I could actively participate in crafting digital experiences.
+
+My journey through middle school, high school, and college further nurtured my passions. I eagerly joined sports teams, eagerly honing my skills and relishing every moment of the game. Meanwhile, my involvement in programming clubs and projects allowed me to explore the limitless possibilities of software creation.
+
+In essence, my early interests in sports, PC games, gadgets, and software development have been the guiding forces behind my personal and educational growth. They have shaped my worldview, fostered a love for problem-solving, and ignited a lifelong pursuit of knowledge in these domains.
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -148,8 +149,8 @@ const About: React.FC<AboutProps> = (props) => {
                     them. You can reach me through the{' '}
                     <Link to="/contact">contact page</Link> or shoot me an email
                     at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:abdullahsarder09@gmail.com">
+                        abdullahsarder09@gmail.com
                     </a>
                 </p>
             </div>
