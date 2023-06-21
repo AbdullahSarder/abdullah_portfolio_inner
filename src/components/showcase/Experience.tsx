@@ -135,7 +135,7 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                     </li>
                 </ul>
             </div> */}
-            {/* <div style={styles.headerContainer}>
+            {/* <div style={styles.headerContainer}> */}
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
                         <h1>K-F/X</h1>
@@ -237,7 +237,7 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                     </li>
                 </ul>
             </div>
-        </div> */}
+        </div>
     );
 };
 
