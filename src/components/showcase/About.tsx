@@ -57,7 +57,7 @@ In essence, my early interests in sports, PC games, gadgets, and software develo
                     </p>
                 </div>
 
-                <p>
+                {/* <p>
                     I started programming more seriously in high school,
                     initially learning how to scrape and interact with websites.
                     I went on to do a ton of passion projects, many of them with
@@ -73,17 +73,14 @@ In essence, my early interests in sports, PC games, gadgets, and software develo
                     multiple game projects, apps, and more. One of these
                     projects is viewable on my{' '}
                     <Link to="/projects/software">Software Projects</Link> page.
-                </p>
+                </p> */}
                 <br />
                 <p>
-                    In 2017, I got accepted into Rennselear Polytechnic
-                    Institute to study Computer Science. It was my first choice
+                    In 2017, I got accepted into American International University-Bangladesh to study Computer Science. It was my first choice
                     and I was absolutely ecstatic to be going to such a great
-                    university. At the end of my sophomore year, I got an
-                    internship working for the startup Hover, primarily focusing
-                    on frontend work. I continued to work at Hover on and off
-                    for about a year and a half, until the start of my senior
-                    year when I decided to focus on other opportunities.
+                    university. At the end of my graduation, I start working for the startup Nest Go, primarily focusing
+                    on UI/UX design and frontend development. I continued to work at Nest Go on and off
+                    for about a year and a half, until the start of New journey Master of Artificial Intelligence.
                 </p>
                 <br />
                 <br />
@@ -99,30 +96,24 @@ In essence, my early interests in sports, PC games, gadgets, and software develo
                         <h3>My Hobbies</h3>
                         <br />
                         <p>
-                            Beyond software, I have a lot of hobbies that I
+                            Beyond web development, I have a lot of hobbies that I
                             enjoy doing in my free time. The more tangible
                             hobbies I have are{' '}
-                            <Link to="/projects/music">Music Production</Link>{' '}
-                            and creating{' '}
-                            <Link to="/projects/art">Digital Art</Link>. You can
+                            <Link to="https://www.behance.net/abdullahsarder">Graphics</Link>{' '}
+                            and Jersey Design{' '}
+                            <Link to="https://www.behance.net/abdullahsarder">Photography</Link>. You can
                             read more about each of these on their respective
                             pages under my projects tab. Some other hobbies I
-                            enjoy are working out, cooking, and (unsurprisingly)
+                            enjoy are working out, playing football, and 
                             playing video games.
                         </p>
                         <br />
-                        <p>
-                            In college, I was an active member in the fraternity
-                            Sigma Alpha Epsilon and held multiple positions in
-                            the chapter. I met a lot of amazing people through
-                            my fraternity and thoroughly enjoyed the community.
-                        </p>
                     </div>
                     <div style={styles.verticalImage}>
                         <img src={meNow} style={styles.image} alt="" />
                         <p>
                             <sub>
-                                <b>Figure 2:</b> Me, April 2022
+                                <b>Date</b> Me, May 2023
                             </sub>
                         </p>
                     </div>
