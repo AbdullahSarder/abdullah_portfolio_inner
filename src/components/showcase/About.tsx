@@ -16,9 +16,8 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a Full-Stack Web Developer currently working at Vercel! In May
-                    of 2022 I graduated from Rensselaer Polytechnic Institute
-                    with my BS in Computer Science.
+                    I'm a Full-Stack Web Developer currently I am a Full time studend. Studying Master of
+                    Artificial Intelegence. I have 1.5 years industry exprience. 
                 </p>
                 <br />
                 <p>
@@ -27,7 +26,7 @@ const About: React.FC<AboutProps> = (props) => {
                     building it. If you have any questions or comments, feel
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
+                    <a href="abdullahsarder09@gmail.com">
                         henryheffernan@gmail.com
                     </a>
                 </p>
