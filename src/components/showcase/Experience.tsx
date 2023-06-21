@@ -10,7 +10,7 @@ const Experience: React.FC<ExperienceProps> = (props) => {
             <div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
-                        <h1>Nest <Go></Go></h1>
+                        <h1>Nest Go</h1>
                         <a
                             rel="noreferrer"
                             target="_blank"
