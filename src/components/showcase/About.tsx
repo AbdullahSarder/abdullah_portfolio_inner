@@ -47,7 +47,7 @@ My journey through middle school, high school, and college further nurtured my p
 In essence, my early interests in sports, PC games, gadgets, and software development have been the guiding forces behind my personal and educational growth. They have shaped my worldview, fostered a love for problem-solving, and ignited a lifelong pursuit of knowledge in these domains.
                 </p>
                 <br />
-                <div className="captioned-image">
+                {/* <div className="captioned-image">
                     <img src={me} style={styles.image} alt="" />
                     <p>
                         <sub>
@@ -55,7 +55,7 @@ In essence, my early interests in sports, PC games, gadgets, and software develo
                             website :)
                         </sub>
                     </p>
-                </div>
+                </div> */}
 
                 {/* <p>
                     I started programming more seriously in high school,
