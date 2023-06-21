@@ -10,19 +10,19 @@ const Experience: React.FC<ExperienceProps> = (props) => {
             <div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
-                        <h1>Hover</h1>
+                        <h1>Nest <Go></Go></h1>
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href={'https://hover.gg/'}
+                            href={'https://www.nestgo.io/'}
                         >
-                            <h4>www.hover.gg</h4>
+                            <h4>https://www.nestgo.io/</h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
-                        <h3>Frontend Engineer</h3>
+                        <h3>Full-Stack Web Developer</h3>
                         <b>
-                            <p>Summer 2020 - Fall 2021</p>
+                            <p>Jan 2022 - Feb 2023</p>
                         </b>
                     </div>
                 </div>
@@ -79,10 +79,10 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                     </li>
                 </ul>
             </div>
-            <div style={styles.headerContainer}>
+            {/* <div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
-                        <h1>BrACS</h1>
+                        <h1>Banglademy</h1>
                         <a
                             target="_blank"
                             rel="noreferrer"
@@ -98,8 +98,8 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         </b>
                     </div>
                 </div>
-            </div>
-            <div className="text-block">
+            </div> */}
+            {/* <div className="text-block">
                 <p>
                     Supervised and developed the front end of bracs.co, a
                     beautifully simple and effective bracket creation and
@@ -134,8 +134,8 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         </p>
                     </li>
                 </ul>
-            </div>
-            <div style={styles.headerContainer}>
+            </div> */}
+            {/* <div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
                         <h1>K-F/X</h1>
@@ -154,7 +154,7 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         </b>
                     </div>
                 </div>
-            </div>
+            {/* </div> */}
             <div className="text-block">
                 <p>
                     Applied problem solving and technical skills to operate
@@ -237,7 +237,7 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                     </li>
                 </ul>
             </div>
-        </div>
+        </div> */}
     );
 };
 
