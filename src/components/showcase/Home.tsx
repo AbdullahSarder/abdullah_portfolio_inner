@@ -3,6 +3,7 @@ import { Link } from '../general';
 
 import forhire from '../../assets/pictures/forHireGif.gif';
 import { useNavigate } from 'react-router';
+import logo from '../../assets/pictures/abdullah_logo.png';
 
 export interface HomeProps {}
 
@@ -16,6 +17,7 @@ const Home: React.FC<HomeProps> = (props) => {
     return (
         <div style={styles.page}>
             <div style={styles.header}>
+            <img src={logo} style={styles.image} alt="" />
                 <h1 style={styles.name}>Abdullah Sarder</h1>
                 <h2>Full-Stack Web Developer</h2>
             </div>
