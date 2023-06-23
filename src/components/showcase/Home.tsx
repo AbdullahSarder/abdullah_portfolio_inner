@@ -17,7 +17,7 @@ const Home: React.FC<HomeProps> = (props) => {
     return (
         <div style={styles.page}>
             <div style={styles.header}>
-            <img src={logo} style={styles.image} alt="" />
+            <img style={styles.logo}src={logo} style={styles.image} alt="" />
                 <h1 style={styles.name}>Abdullah Sarder</h1>
                 <h2>Full-Stack Web Developer</h2>
             </div>
@@ -91,6 +91,9 @@ const styles: StyleSheetCSS = {
         marginBottom: 16,
         lineHeight: 0.9,
     },
+    logo:{
+        width:100,
+    }
 };
 
 export default Home;
