@@ -92,7 +92,8 @@ const styles: StyleSheetCSS = {
         lineHeight: 0.9,
     },
     logo:{
-        width:100,
+        width:40,
+        height:30,
     }
 };
 
