@@ -17,7 +17,7 @@ const Home: React.FC<HomeProps> = (props) => {
     return (
         <div style={styles.page}>
             <div style={styles.header}>
-            <img style={styles.logo}src={logo} style={styles.image} alt="" />
+            <img style={styles.logo}src={logo} style={styles.myimage} alt="" />
                 <h1 style={styles.name}>Abdullah Sarder</h1>
                 <h2>Full-Stack Web Developer</h2>
             </div>
@@ -69,7 +69,7 @@ const styles: StyleSheetCSS = {
     buttons: {
         justifyContent: 'space-between',
     },
-    image: {
+    myimage: {
         width: 800,
     },
     link: {
