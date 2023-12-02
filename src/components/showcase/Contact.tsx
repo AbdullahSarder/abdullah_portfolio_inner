@@ -111,15 +111,15 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <div style={styles.socials}>
                     <SocialBox
                         icon={ghIcon}
-                        link={'https://github.com/abdullah'}
+                        link={'https://github.com/AbdullahSarder'}
                     />
                     <SocialBox
                         icon={inIcon}
-                        link={'https://www.linkedin.com/in/abdullah/'}
+                        link={'https://www.linkedin.com/in/abdullah-sarder/'}
                     />
                     <SocialBox
                         icon={twitterIcon}
-                        link={'https://twitter.com/abdullah'}
+                        link={'https://www.linkedin.com/in/abdullah-sarder/'}
                     />
                 </div>
             </div>
