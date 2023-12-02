@@ -244,7 +244,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/skip-the-scroll"
+                            href="https://github.com/abdullah/skip-the-scroll"
                         >
                             <p>
                                 <b>[GitHub]</b> - Skip the Scroll Repository

@@ -51,7 +51,7 @@ const Contact: React.FC<ContactProps> = (props) => {
     const handleSubmit = useCallback(() => {
         if (isFormValid) {
             setIsLoading(true);
-            fetch('https://henryheffernan.com/api/send-email', {
+            fetch('https://abdullahsarder.com/api/send-email', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -111,15 +111,15 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <div style={styles.socials}>
                     <SocialBox
                         icon={ghIcon}
-                        link={'https://github.com/henryjeff'}
+                        link={'https://github.com/abdullah'}
                     />
                     <SocialBox
                         icon={inIcon}
-                        link={'https://www.linkedin.com/in/henryheffernan/'}
+                        link={'https://www.linkedin.com/in/abdullah/'}
                     />
                     <SocialBox
                         icon={twitterIcon}
-                        link={'https://twitter.com/henryheffernan'}
+                        link={'https://twitter.com/abdullah'}
                     />
                 </div>
             </div>

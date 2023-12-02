@@ -128,9 +128,9 @@ In essence, my early interests in sports, PC games, gadgets, and software develo
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href="https://twitter.com/abdullah"
                     >
-                        @henryheffernan
+                        @abdullahsarder
                     </a>{' '}
                     Good luck and have fun!
                 </p>
